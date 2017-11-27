@@ -1,0 +1,55 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ class\ manages\ the\ player\ with\ characteristics\r\n\r\n\ @author\ Group\ 8\r\n\ @version\ 09/11/17\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment10.params=
+comment10.target=Room\ getLocalisation()
+comment10.text=\r\n\ getName\ -\ display\ the\ name\ of\ the\ player\r\n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment11.params=
+comment11.target=boolean\ isDead()
+comment11.text=\r\n\ isDead\ -\ display\ the\ status\ of\ the\ player\r\n\r\n\ @return\ \ \ \ if\ the\ player\ is\ dead\r\n
+comment12.params=nHealthy
+comment12.target=void\ addLifePoints(int)
+comment12.text=\r\n\ Add\ 5\ points\ life\r\n\r\n\ @param\ \ \ \ int\ n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment13.params=nDamage
+comment13.target=void\ looseLifePoints(int)
+comment13.text=\r\n\ Lose\ 5\ points\ life\r\n\r\n\ @param\ \ \ \ int\ n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment14.params=nWeapon
+comment14.target=void\ addAttackPoint(int)
+comment14.text=\r\n\ Add\ Attack\ points\ from\ the\ weapon\r\n\r\n\ @param\ \ \ \ int\ n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment15.params=nWeapon
+comment15.target=void\ looseAttackPoint(int)
+comment15.text=\r\n\ Suppress\ the\ Attack\ points\ from\ the\ weapon\ when\ the\ weapon\ is\ totally\ used\r\n\r\n\ @param\ \ \ \ int\ n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment16.params=
+comment16.target=void\ affiche()
+comment16.text=\r\n\ Print\ the\ details\ of\ the\ player\ inventory\r\n\ \r\n
+comment17.params=
+comment17.target=void\ checkDeadAndGameOver()
+comment17.text=\r\n\ setDead()\ -\ if\ the\ life\ level\ is\ 0,\ the\ player\ is\ dead.\r\n\r\n
+comment2.params=
+comment2.target=int\ calculLifeLevel()
+comment2.text=\r\n\ Method\ to\ do\ the\ calculation\ of\ a\ \r\n\ @return\ a,\ integer\ \=\ life\ level\r\n
+comment3.params=
+comment3.target=int\ calculAttackScore()
+comment3.text=\r\n\ Method\ to\ do\ the\ calculation\ of\ b\ \r\n\ @return\ b,\ integer\ \=\ score\ of\ the\ player\r\n
+comment4.params=
+comment4.target=int\ getAttackScore()
+comment4.text=\r\n\ get\ attackScore\r\n\ @return\ attackScore,\ integer\ \=\ score\ of\ the\ player\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ getName\ -\ display\ the\ name\ of\ the\ player\r\n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+comment6.params=myItem
+comment6.target=void\ addItemInventory(Item)
+comment6.text=\r\n\ Method\ to\ add\ an\ Item\ in\ the\ inventory\ of\ the\ player\r\n\ \r\n@param\ Item\ It\ is\ the\ Item\ which\ added\ in\ the\ inventory\r\n
+comment7.params=myItem
+comment7.target=void\ deleteItemInventory(Item)
+comment7.text=\ \r\n\ Delete\ an\ Item\ of\ the\ inventory\r\n\ \r\n\ @param\ Item\ is\ the\ Item\ which\ is\ delete\r\n
+comment8.params=
+comment8.target=java.util.ArrayList\ getInventory()
+comment8.text=\r\n\ getInventory\ -\ display\ the\ inventory\ of\ the\ player\r\n\r\n\ @return\ \ \ \ the\ inventory\ of\ the\ player\r\n
+comment9.params=
+comment9.target=int\ getLifeLevel()
+comment9.text=\r\n\ getName\ -\ display\ the\ name\ of\ the\ player\r\n\r\n\ @return\ \ \ \ the\ name\ of\ the\ player\r\n
+numComments=18

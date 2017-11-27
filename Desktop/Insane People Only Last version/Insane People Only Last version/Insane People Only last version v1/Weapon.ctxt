@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ Item\ is\ an\ object\ that\ it\ could\ be\ used\ and\ store\ by\ the\ player.\ \r\n\ These\ objects\ are\ weapons\ to\ kill\ a\ monster.\r\n\r\n\ @author\ Group\ 8\r\n\ @version\ 09/11/17\r\n
+comment1.params=name\ des\ p\ u
+comment1.target=Weapon(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ class\ Weapon\r\n
+comment2.params=
+comment2.target=int\ getPointsWeapon()
+comment2.text=\r\n\ Displays\ the\ value\ of\ object\ power\r\n\ \r\n\ @return\ pointsWeapon,\ \ \ the\ value\ of\ object\ power\r\n
+comment3.params=myPlayer
+comment3.target=void\ action(Player)
+comment3.text=\r\n\ Add\ life\ point\ to\ the\ player\r\n\ \r\n\ @param\ myPlayer\ the\ player\ who\ plays\r\n\ \r\n
+numComments=4

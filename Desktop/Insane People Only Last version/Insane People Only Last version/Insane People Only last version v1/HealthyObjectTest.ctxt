@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HealthyObjectTest
+comment0.text=\r\n\ The\ test\ class\ HealthyObjectTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HealthyObjectTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ HealthyObjectTest\r\n
+comment2.params=
+comment2.target=void\ testAction()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+numComments=3

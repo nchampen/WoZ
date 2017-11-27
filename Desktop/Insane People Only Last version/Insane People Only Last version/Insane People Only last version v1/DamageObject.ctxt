@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DamageObject
+comment0.text=\r\n\ It\ is\ an\ object\ that\ it\ could\ be\ used\ and\ store\ by\ the\ player.\ \r\n\ These\ objects\ are\ traps\ for\ the\ player.\r\n\r\n\ @author\ Group\ 8\r\n\ @version\ 09/11/17\r\n
+comment1.params=name\ des\ u\ p
+comment1.target=DamageObject(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DamageObject\r\n
+comment2.params=
+comment2.target=int\ getPointsDamage()
+comment2.text=\r\n\ Displays\ the\ value\ of\ object\ power\r\n\ \r\n\ @return\ pointsDamage,\ \ \ the\ value\ of\ object\ power\r\n
+comment3.params=myPlayer
+comment3.target=void\ action(Player)
+comment3.text=\r\n\ Subtract\ life\ point\ to\ the\ player\r\n\ \r\n\ @param\ myPlayer\ the\ player\ who\ plays\r\n
+numComments=4
